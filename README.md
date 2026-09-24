@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there, I'm Volodia 👋
 
-<!--
-**volodiahr837/volodiahr837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and aspiring developer interested in programming, web development, and AI.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Currently learning **Python, Web Development, and AI**
+* 💻 Working with **JavaScript, C++, HTML, CSS, and Bootstrap**
+* 🐍 Currently focusing on improving my **Python** skills
+* 🤖 Interested in **Artificial Intelligence and AI-powered projects**
+* 🎮 I also enjoy working on **Unity game projects**
+* 🔧 Have experience with **Arduino and Tinkercad**
+* 📚 Always learning and building new projects
+
+## 🛠️ Technologies
+
+**Languages**
+
+* Python
+* JavaScript
+* C++
+
+**Web**
+
+* HTML
+* CSS
+* Bootstrap
+
+**Tools & Platforms**
+
+* Git
+* GitHub
+* VS Code
+* Unity
+* Arduino
+
+## 🎯 Current Goal
+
+My current learning path is:
+
+**Python → Web Development → AI**
+
+I'm building projects along the way and using GitHub to track my progress and share what I create.
+
+## 📌 Projects
+
+I'm currently building and experimenting with different programming, web, AI, game development, and Arduino projects.
+
+More projects coming soon 🚀
+
+---
+
+⭐ Thanks for visiting my profile!
